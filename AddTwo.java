@@ -9,6 +9,6 @@ public class AddTwo {
 	        // define a new variable "sum" that represents the sum of num1 and num2 
 	        int sum = num1+num2;
 	        // print
-	        System.err.println(num1 + " + " + num2 + " = " + sum);	
+	        System.err.println(" " + num1 + " + " + num2 + " = " + sum);	
 	}
 }
