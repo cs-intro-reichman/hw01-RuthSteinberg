@@ -13,6 +13,6 @@ public class LinearEq {
         // calculate x: a*x+b=c > a*x=c-d > x=(c-d)/a.
         double x = (c-b)/a;
         // print
-        System.out.println("x = " + x);  
+        System.out.println(a + " * x + " + b + " = " + c + "\n" + "x = " + x);  
     }
 }
