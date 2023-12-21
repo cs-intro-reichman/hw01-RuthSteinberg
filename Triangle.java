@@ -16,7 +16,7 @@ public class Triangle {
             answer = true;
         }
         // print the 3 numbers and the answer
-        System.out.println(a + " , " + b + " , " + c + ": " + answer); 
+        System.out.println(a + ", " + b + ", " + c + ": " + answer); 
     }
 }
 
