@@ -13,7 +13,7 @@ public class Triangle {
         // check if any two sides is greater than the length of the remaining side
         boolean answer = (((a+b)>c) && ((b+c)>a) && ((a+c)>b));
         // print the 3 numbers and the answer
-        System.out.println(a + " , " + b + " , " + c + ": " + answer); 
+        System.out.println(a + " , " + b + ", " + c + ": " + answer); 
     }
 }
 
