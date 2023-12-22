@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
     public static void main(String[] args) {
         // get 2 numbers from the command-line that represents the min and the max of the range
         int start = Integer.parseInt (args[0]);
