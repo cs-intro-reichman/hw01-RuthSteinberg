@@ -7,8 +7,9 @@ public class GenThree {
         int a = (int)((Math.random()*(end-start+1)))+start;
         int b = (int)((Math.random()*(end-start+1)))+start;
         int c = (int)((Math.random()*(end-start+1)))+start;
-        //  create new varieble that represents the smallest number from a, b, c. 
+        //  create new varieble that represents the smallest number from a, b. 
         int min = Math.min(a, b);
+        // create new varieble (finel min) that represents the smallest number from min, c.
         int fMin = Math.min(min, c);
         // print
         System.out.println (a);
